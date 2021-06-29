@@ -1,0 +1,46 @@
+[
+    {
+        "item_id": 1,
+        "matri": 91810027,
+        "nomb": "Jorge",
+        "pater": "Rodriguez",
+        "mater": "de la Torre",
+        "edad": 21,
+        "mail": "mecosde@gmail.com",
+        "telef": 9612284428,
+        "carr": "IRIyC"
+    },
+    {
+        "item_id": 2,
+        "matri": 91810143,
+        "nomb": "Oscar",
+        "pater": "L\u00f3pez",
+        "mater": "G\u00f3mez",
+        "edad": 20,
+        "mail": "oscarlopezal@laselva.edu.mx",
+        "telef": 9191331534,
+        "carr": "IRIyC"
+    },
+    {
+        "item_id": 3,
+        "matri": 91810232,
+        "nomb": "Jos\u00e9 Daniel",
+        "pater": "Cruz",
+        "mater": "Luna",
+        "edad": 20,
+        "mail": "sprayerjose@gmail.com",
+        "telef": 9191233278,
+        "carr": "IRIyC"
+    },
+    {
+        "item_id": 4,
+        "matri": 91810371,
+        "nomb": "Josu\u00e9 Jonathan",
+        "pater": "P\u00e9rez",
+        "mater": "Gonz\u00e1lez",
+        "edad": 23,
+        "mail": "Josuegonza0314@gmail.com",
+        "telef": 9191109773,
+        "carr": "IRIyC"
+    }
+]
